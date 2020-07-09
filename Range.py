@@ -14,5 +14,7 @@ for i in range(5, 10):
     print (i, end=",")
 
 
-for i in range(5, 10, 2):
+for i in range(5, 10, 3):
     print (i, end="\n")
+
+
